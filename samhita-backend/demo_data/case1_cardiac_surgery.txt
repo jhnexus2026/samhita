@@ -1,0 +1,210 @@
+============================================================
+        SAROJINI DEVI MEMORIAL HOSPITAL, HYDERABAD
+              DISCHARGE SUMMARY (IP/2026/04821)
+============================================================
+
+Patient Name    : Ramesh Venkataraman
+Age / Gender    : 58 years / Male
+UHID            : SDM-2026-08134
+ABHA ID         : 14-7829-3341-5567
+Admission Date  : 12-03-2026
+Discharge Date  : 22-03-2026
+Ward / Bed      : Cardiac ICU → Ward 4B / Bed 12
+Treating Doctor : Dr. Kavitha Subramaniam (CTVS)
+Referred By     : Dr. Arun Nair (Cardiology OPD)
+
+------------------------------------------------------------
+CHIEF COMPLAINTS
+------------------------------------------------------------
+- Chest pain radiating to left arm since 2 days
+- SOB (Grade III) on exertion
+- Profuse sweating (diaphoresis) episodes
+- History of similar episode 3 months back — managed conservatively at local clinic
+
+------------------------------------------------------------
+PAST MEDICAL HISTORY
+------------------------------------------------------------
+- Known case of Type 2 DM — on Metformin 500mg BD and Glimepiride 2mg OD since 5 years
+- HTN — on Amlodipine 5mg OD and Telmisartan 40mg OD since 8 years
+- Dyslipidemia — on Atorvastatin 20mg HS since 3 years
+- H/o smoking — 20 pack-years, quit 2 years ago
+- Denies history of asthma or COPD
+- No known drug allergies
+- Family history: Father expired of MI at age 62
+
+------------------------------------------------------------
+EXAMINATION ON ADMISSION
+------------------------------------------------------------
+Vitals:
+  Blood Pressure  : 168/98 mmHg
+  Pulse Rate      : 102/min, irregular
+  SpO2            : 93% on room air
+  Temperature     : 98.4°F
+  Respiratory Rate: 22/min
+
+General: Anxious, diaphoretic, obese (BMI 31.2)
+CVS: S1S2 heard, irregular rhythm, Grade II/VI systolic murmur at apex
+RS: Bilateral basal crepitations
+Abdomen: Soft, non-tender, no organomegaly
+CNS: Conscious, oriented, no focal neurological deficit
+
+------------------------------------------------------------
+INVESTIGATIONS
+------------------------------------------------------------
+Blood Work (12-03-2026):
+  Hemoglobin       : 12.8 g/dL        (Ref: 13-17)
+  TLC              : 11,200/cumm      (Ref: 4000-11000)
+  Platelet Count   : 2.1 lakh/cumm    (Ref: 1.5-4.0 lakh)
+  RBS              : 286 mg/dL        (Ref: 70-140)
+  HbA1c            : 8.9%             (Ref: <6.5%)
+  Serum Creatinine : 1.4 mg/dL        (Ref: 0.7-1.3)
+  Blood Urea       : 42 mg/dL         (Ref: 15-40)
+  Total Cholesterol: 268 mg/dL        (Ref: <200)
+  LDL              : 178 mg/dL        (Ref: <100)
+  HDL              : 34 mg/dL         (Ref: >40)
+  Triglycerides    : 312 mg/dL        (Ref: <150)
+  Troponin I       : 4.8 ng/mL        (Ref: <0.04)  ** CRITICAL **
+  CK-MB            : 86 U/L           (Ref: 0-25)   ** CRITICAL **
+  BNP              : 680 pg/mL        (Ref: <100)
+  PT/INR           : 1.1              (Ref: 0.8-1.2)
+
+ECG (12-03-2026):
+  ST elevation in leads II, III, aVF with reciprocal changes in I, aVL
+  Ventricular rate 104/min, atrial fibrillation
+
+2D Echocardiography (13-03-2026):
+  LVEF: 35% (severely reduced)
+  Regional wall motion abnormality — inferior and posterior wall hypokinesia
+  Mild mitral regurgitation (Grade I)
+  LV dilation — LVEDD 62mm
+  No pericardial effusion
+
+Coronary Angiography (14-03-2026):
+  LAD — 90% stenosis (proximal)
+  LCx — 80% stenosis (mid)
+  RCA — 95% stenosis (proximal) — culprit vessel
+  Triple vessel disease confirmed
+
+Chest X-ray (12-03-2026):
+  Bilateral hilar congestion, Kerley B lines
+  Cardiomegaly (CTR 0.62)
+  No pleural effusion
+
+------------------------------------------------------------
+DIAGNOSIS
+------------------------------------------------------------
+Primary:
+  1. Acute Inferior STEMI (ST-Elevation Myocardial Infarction)
+  2. Triple Vessel Coronary Artery Disease
+
+Secondary:
+  3. Type 2 Diabetes Mellitus — uncontrolled (HbA1c 8.9%)
+  4. Essential Hypertension — Stage II
+  5. Dyslipidemia — mixed type
+  6. Atrial Fibrillation — new onset
+  7. Heart Failure with Reduced Ejection Fraction (HFrEF) — NYHA Class III
+  8. Obesity (BMI 31.2)
+
+Rule out: Chronic Kidney Disease Stage 2 (eGFR borderline)
+
+------------------------------------------------------------
+PROCEDURE PERFORMED
+------------------------------------------------------------
+CORONARY ARTERY BYPASS GRAFTING (CABG) x3
+Date: 16-03-2026
+Surgeon: Dr. Kavitha Subramaniam, Dr. Rajesh Iyer (Asst.)
+Anaesthesia: General (Dr. Preeti Sharma)
+
+Grafts:
+  1. LIMA → LAD
+  2. SVG → LCx (OM1)
+  3. SVG → RCA (PDA)
+
+Intra-operative:
+  - Cardiopulmonary bypass time: 142 minutes
+  - Aortic cross-clamp time: 98 minutes
+  - EBL: 450 mL
+  - 2 units PRBC transfused intra-op
+  - No complications, weaned off bypass smoothly
+  - TEE post-bypass: all grafts patent, LVEF improved to 40%
+
+Post-op ICU Course (16-03 to 19-03-2026):
+  - Extubated on POD-1 (17-03-2026)
+  - Chest drains removed POD-2
+  - Temporary atrial pacing wire used for 48 hours (AF episodes)
+  - DC cardioversion performed on POD-2 — successful, NSR restored
+  - Insulin infusion for glycemic control — switched to subcutaneous on POD-3
+  - Ambulation started POD-3
+  - No wound infection, no sternal instability
+
+------------------------------------------------------------
+MEDICATIONS AT DISCHARGE
+------------------------------------------------------------
+1.  Tab Aspirin 75mg OD — lifelong
+2.  Tab Clopidogrel 75mg OD — for 12 months
+3.  Tab Atorvastatin 40mg HS — lifelong (dose increased from 20mg)
+4.  Tab Metoprolol Succinate 50mg OD — beta blocker
+5.  Tab Ramipril 5mg OD — ACE inhibitor for HFrEF
+6.  Tab Metformin 500mg BD — continue
+7.  Tab Glimepiride 2mg OD — continue
+8.  Tab Amlodipine 5mg OD — continue
+9.  Tab Telmisartan 40mg OD — continue
+10. Tab Spironolactone 25mg OD — for HFrEF
+11. Inj Enoxaparin 40mg SC OD — for 7 days post-discharge
+12. Tab Pantoprazole 40mg OD — gastric protection
+
+------------------------------------------------------------
+BILLING SUMMARY
+------------------------------------------------------------
+S.No  Description                          Amount (INR)
+------------------------------------------------------------
+1.    Cardiac ICU charges (4 days)           1,20,000
+2.    Ward charges (6 days)                    36,000
+3.    CABG Surgery — surgeon fee             2,50,000
+4.    Anaesthesia charges                      45,000
+5.    Cardiopulmonary bypass consumables        85,000
+6.    LIMA/SVG harvesting kit                  62,000
+7.    Blood products (2 units PRBC)            12,000
+8.    Coronary Angiography                     35,000
+9.    2D Echocardiography                       4,500
+10.   Chest X-Ray                                 600
+11.   Laboratory investigations                18,500
+12.   Medications (in-hospital)                24,000
+13.   Nursing charges                          15,000
+14.   Physiotherapy (5 sessions)                5,000
+15.   Ambulance charges                         3,500
+16.   Dietician consultation                    1,500
+17.   Holter monitoring (24-hr)                 6,000
+------------------------------------------------------------
+      TOTAL                                 7,23,600
+------------------------------------------------------------
+      TPA Pre-Approved Amount               5,50,000
+      Patient Co-Pay                        1,73,600
+------------------------------------------------------------
+
+TPA Details:
+  Insurance Company : Star Health & Allied Insurance
+  Policy No.        : SH/HYD/2024/887231
+  TPA               : Medi Assist Healthcare Services
+  Pre-Auth No.      : MA-2026-PRE-44821
+  Approved Package  : CABG (Triple Vessel) — PMJAY Rate
+
+------------------------------------------------------------
+FOLLOW-UP ADVICE
+------------------------------------------------------------
+- Review in CTVS OPD after 2 weeks with wound check
+- Cardiology OPD after 4 weeks — repeat Echo, lipid panel
+- Diabetology review after 2 weeks — HbA1c recheck at 3 months
+- Cardiac rehabilitation programme — start at 4 weeks
+- Strict dietary control: low salt (<5g/day), low fat, diabetic diet
+- Absolute smoking cessation (already quit — reinforce)
+- Daily walking 20 min from POD-14, gradual increase
+- Monitor BP daily, maintain <130/80
+- Wound care: keep dry, report any redness/discharge
+- Emergency: Chest pain, breathlessness, fever >101°F — report immediately
+
+------------------------------------------------------------
+Prepared by: Dr. Sneha Reddy (Resident, CTVS)
+Verified by: Dr. Kavitha Subramaniam (HOD, CTVS)
+Date: 22-03-2026
+============================================================

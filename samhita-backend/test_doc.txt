@@ -1,0 +1,48 @@
+DISCHARGE SUMMARY
+
+Patient Name: Rajesh Kumar
+Age/Gender: 52/M
+Patient ID: HOSP-2024-4492
+Date of Admission: 15-03-2025
+Date of Discharge: 20-03-2025
+
+CHIEF COMPLAINTS:
+Patient presented with severe shortness of breath (SOB) and chest pain since 3 days.
+History of Type 2 Diabetes Mellitus and Hypertension since 5 years.
+
+EXAMINATION:
+BP: 170/100 mmHg, Pulse: 110/min, SpO2: 88%, Temperature: 99.2°F
+RBS: 320 mg/dL
+
+INVESTIGATIONS:
+Hemoglobin: 10.2 g/dL
+Creatinine: 2.1 mg/dL
+Troponin T: 0.8 ng/mL (Elevated)
+ECG: ST elevation in leads V1-V4
+
+DIAGNOSIS:
+1. Acute Myocardial Infarction (STEMI)
+2. Type 2 Diabetes Mellitus with hyperglycemia
+3. Essential Hypertension - Stage 2
+4. Acute Kidney Injury
+
+PROCEDURES:
+1. Percutaneous Coronary Angioplasty with Stent placement
+2. ECG monitoring
+3. Echocardiography
+
+MEDICATIONS:
+1. Aspirin 150mg OD
+2. Clopidogrel 75mg OD
+3. Atorvastatin 40mg HS
+4. Metformin 500mg BD
+5. Amlodipine 10mg OD
+6. Insulin Glargine 20 units SC HS
+
+BILLING:
+Room charges - Rs. 15000
+Angioplasty with stent - Rs. 250000
+ECG - Rs. 500
+Echocardiography - Rs. 3000
+Blood tests - Rs. 2000
+Medications - Rs. 5000

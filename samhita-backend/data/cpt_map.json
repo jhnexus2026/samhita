@@ -1,0 +1,446 @@
+[
+  {
+    "code": "99213",
+    "description": "Office or outpatient visit, established patient, low complexity"
+  },
+  {
+    "code": "99214",
+    "description": "Office or outpatient visit, established patient, moderate complexity"
+  },
+  {
+    "code": "99215",
+    "description": "Office or outpatient visit, established patient, high complexity"
+  },
+  {
+    "code": "99203",
+    "description": "Office or outpatient visit, new patient, low complexity"
+  },
+  {
+    "code": "99204",
+    "description": "Office or outpatient visit, new patient, moderate complexity"
+  },
+  {
+    "code": "99205",
+    "description": "Office or outpatient visit, new patient, high complexity"
+  },
+  {
+    "code": "99221",
+    "description": "Initial hospital care, low complexity"
+  },
+  {
+    "code": "99222",
+    "description": "Initial hospital care, moderate complexity"
+  },
+  {
+    "code": "99223",
+    "description": "Initial hospital care, high complexity"
+  },
+  {
+    "code": "99231",
+    "description": "Subsequent hospital care, low complexity"
+  },
+  {
+    "code": "99232",
+    "description": "Subsequent hospital care, moderate complexity"
+  },
+  {
+    "code": "99233",
+    "description": "Subsequent hospital care, high complexity"
+  },
+  {
+    "code": "99238",
+    "description": "Hospital discharge day management, 30 minutes or less"
+  },
+  {
+    "code": "99239",
+    "description": "Hospital discharge day management, more than 30 min"
+  },
+  {
+    "code": "99281",
+    "description": "Emergency department visit, self-limited"
+  },
+  {
+    "code": "99282",
+    "description": "Emergency department visit, low complexity"
+  },
+  {
+    "code": "99283",
+    "description": "Emergency department visit, moderate complexity"
+  },
+  {
+    "code": "99284",
+    "description": "Emergency department visit, moderate-high complexity"
+  },
+  {
+    "code": "99285",
+    "description": "Emergency department visit, high complexity"
+  },
+  {
+    "code": "99291",
+    "description": "Critical care, first 30-74 minutes"
+  },
+  {
+    "code": "99292",
+    "description": "Critical care, each additional 30 minutes"
+  },
+  {
+    "code": "44960",
+    "description": "Appendectomy"
+  },
+  {
+    "code": "44970",
+    "description": "Laparoscopic appendectomy"
+  },
+  {
+    "code": "47562",
+    "description": "Laparoscopic cholecystectomy"
+  },
+  {
+    "code": "47563",
+    "description": "Laparoscopic cholecystectomy with cholangiography"
+  },
+  {
+    "code": "47600",
+    "description": "Open cholecystectomy"
+  },
+  {
+    "code": "33533",
+    "description": "Coronary artery bypass grafting (CABG), single graft"
+  },
+  {
+    "code": "33534",
+    "description": "Coronary artery bypass grafting (CABG), two grafts"
+  },
+  {
+    "code": "33535",
+    "description": "Coronary artery bypass grafting (CABG), three grafts"
+  },
+  {
+    "code": "92928",
+    "description": "Percutaneous coronary angioplasty with stent"
+  },
+  {
+    "code": "92920",
+    "description": "Percutaneous transluminal coronary angioplasty"
+  },
+  {
+    "code": "93451",
+    "description": "Right heart catheterization"
+  },
+  {
+    "code": "93452",
+    "description": "Left heart catheterization"
+  },
+  {
+    "code": "93458",
+    "description": "Catheter placement in coronary artery for coronary angiography"
+  },
+  {
+    "code": "33208",
+    "description": "Insertion of permanent pacemaker"
+  },
+  {
+    "code": "33249",
+    "description": "Insertion of implantable defibrillator"
+  },
+  {
+    "code": "43239",
+    "description": "Upper gastrointestinal endoscopy with biopsy"
+  },
+  {
+    "code": "43235",
+    "description": "Upper gastrointestinal endoscopy, diagnostic"
+  },
+  {
+    "code": "43246",
+    "description": "Upper GI endoscopy with band ligation of esophageal varices"
+  },
+  {
+    "code": "45380",
+    "description": "Colonoscopy with biopsy"
+  },
+  {
+    "code": "45378",
+    "description": "Colonoscopy, diagnostic"
+  },
+  {
+    "code": "49505",
+    "description": "Inguinal hernia repair"
+  },
+  {
+    "code": "49650",
+    "description": "Laparoscopic inguinal hernia repair"
+  },
+  {
+    "code": "49560",
+    "description": "Incisional hernia repair"
+  },
+  {
+    "code": "59510",
+    "description": "Cesarean delivery (LSCS)"
+  },
+  {
+    "code": "59400",
+    "description": "Routine obstetric care including vaginal delivery"
+  },
+  {
+    "code": "59610",
+    "description": "Cesarean delivery after previous cesarean"
+  },
+  {
+    "code": "27447",
+    "description": "Total knee replacement arthroplasty"
+  },
+  {
+    "code": "27130",
+    "description": "Total hip replacement arthroplasty"
+  },
+  {
+    "code": "27236",
+    "description": "Open treatment of femoral fracture, intertrochanteric"
+  },
+  {
+    "code": "27244",
+    "description": "Open treatment of femoral fracture with internal fixation"
+  },
+  {
+    "code": "27245",
+    "description": "Open treatment of femoral fracture with plate and screws"
+  },
+  {
+    "code": "90935",
+    "description": "Hemodialysis procedure"
+  },
+  {
+    "code": "90937",
+    "description": "Hemodialysis procedure requiring repeated evaluation"
+  },
+  {
+    "code": "90945",
+    "description": "Dialysis procedure other than hemodialysis"
+  },
+  {
+    "code": "36415",
+    "description": "Venipuncture (blood draw)"
+  },
+  {
+    "code": "36556",
+    "description": "Insertion of non-tunneled central venous catheter"
+  },
+  {
+    "code": "36620",
+    "description": "Arterial catheterization for blood sampling"
+  },
+  {
+    "code": "31624",
+    "description": "Bronchoscopy with bronchoalveolar lavage"
+  },
+  {
+    "code": "31622",
+    "description": "Bronchoscopy, diagnostic"
+  },
+  {
+    "code": "32405",
+    "description": "Thoracentesis"
+  },
+  {
+    "code": "32551",
+    "description": "Tube thoracostomy, chest tube insertion"
+  },
+  {
+    "code": "49083",
+    "description": "Abdominal paracentesis"
+  },
+  {
+    "code": "62270",
+    "description": "Lumbar puncture (spinal tap)"
+  },
+  {
+    "code": "71046",
+    "description": "Chest X-ray, 2 views"
+  },
+  {
+    "code": "71045",
+    "description": "Chest X-ray, single view"
+  },
+  {
+    "code": "74177",
+    "description": "CT abdomen and pelvis with contrast"
+  },
+  {
+    "code": "74176",
+    "description": "CT abdomen and pelvis without contrast"
+  },
+  {
+    "code": "74178",
+    "description": "CT abdomen and pelvis with and without contrast"
+  },
+  {
+    "code": "70553",
+    "description": "MRI brain with and without contrast"
+  },
+  {
+    "code": "70551",
+    "description": "MRI brain without contrast"
+  },
+  {
+    "code": "72148",
+    "description": "MRI lumbar spine without contrast"
+  },
+  {
+    "code": "73721",
+    "description": "MRI of lower extremity joint without contrast"
+  },
+  {
+    "code": "76700",
+    "description": "Ultrasound, abdominal, complete"
+  },
+  {
+    "code": "76856",
+    "description": "Pelvic ultrasound, complete"
+  },
+  {
+    "code": "76830",
+    "description": "Transvaginal ultrasound"
+  },
+  {
+    "code": "76805",
+    "description": "Obstetric ultrasound, complete"
+  },
+  {
+    "code": "93000",
+    "description": "Electrocardiogram (ECG/EKG), 12-lead"
+  },
+  {
+    "code": "93306",
+    "description": "Echocardiography, transthoracic, complete"
+  },
+  {
+    "code": "93303",
+    "description": "Echocardiography, transthoracic, limited"
+  },
+  {
+    "code": "93350",
+    "description": "Stress echocardiography"
+  },
+  {
+    "code": "93015",
+    "description": "Cardiovascular stress test (treadmill)"
+  },
+  {
+    "code": "78452",
+    "description": "Myocardial perfusion imaging (nuclear stress test)"
+  },
+  {
+    "code": "85025",
+    "description": "Complete blood count (CBC) with differential"
+  },
+  {
+    "code": "80053",
+    "description": "Comprehensive metabolic panel"
+  },
+  {
+    "code": "80048",
+    "description": "Basic metabolic panel"
+  },
+  {
+    "code": "80061",
+    "description": "Lipid panel"
+  },
+  {
+    "code": "84443",
+    "description": "Thyroid stimulating hormone (TSH)"
+  },
+  {
+    "code": "82947",
+    "description": "Glucose, quantitative"
+  },
+  {
+    "code": "83036",
+    "description": "Hemoglobin A1c"
+  },
+  {
+    "code": "81001",
+    "description": "Urinalysis, automated, with microscopy"
+  },
+  {
+    "code": "87086",
+    "description": "Urine culture"
+  },
+  {
+    "code": "87070",
+    "description": "Culture, bacterial, blood"
+  },
+  {
+    "code": "85610",
+    "description": "Prothrombin time (PT)"
+  },
+  {
+    "code": "85730",
+    "description": "Partial thromboplastin time (PTT)"
+  },
+  {
+    "code": "86140",
+    "description": "C-reactive protein"
+  },
+  {
+    "code": "82553",
+    "description": "Creatine kinase MB fraction"
+  },
+  {
+    "code": "84484",
+    "description": "Troponin, quantitative"
+  },
+  {
+    "code": "82310",
+    "description": "Calcium, total"
+  },
+  {
+    "code": "84100",
+    "description": "Phosphorus, inorganic"
+  },
+  {
+    "code": "84550",
+    "description": "Uric acid, blood"
+  },
+  {
+    "code": "88305",
+    "description": "Surgical pathology, biopsy"
+  },
+  {
+    "code": "88312",
+    "description": "Special stains, immunohistochemistry"
+  },
+  {
+    "code": "97110",
+    "description": "Therapeutic exercises / Physiotherapy"
+  },
+  {
+    "code": "97140",
+    "description": "Manual therapy techniques"
+  },
+  {
+    "code": "97530",
+    "description": "Therapeutic activities"
+  },
+  {
+    "code": "90837",
+    "description": "Psychotherapy, 60 minutes"
+  },
+  {
+    "code": "90834",
+    "description": "Psychotherapy, 45 minutes"
+  },
+  {
+    "code": "96413",
+    "description": "Chemotherapy administration, IV infusion, first hour"
+  },
+  {
+    "code": "77386",
+    "description": "Radiation therapy delivery, IMRT"
+  },
+  {
+    "code": "77263",
+    "description": "Radiation therapy planning, complex"
+  }
+]

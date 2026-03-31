@@ -1,0 +1,342 @@
+[
+  {
+    "code": "718-7",
+    "description": "Hemoglobin [Mass/volume] in Blood"
+  },
+  {
+    "code": "4544-3",
+    "description": "Hematocrit [Volume Fraction] of Blood"
+  },
+  {
+    "code": "6690-2",
+    "description": "Leukocytes [#/volume] in Blood by Automated count"
+  },
+  {
+    "code": "26464-8",
+    "description": "Leukocytes [#/volume] in Blood"
+  },
+  {
+    "code": "787-2",
+    "description": "MCV [Entitic volume] by Automated count"
+  },
+  {
+    "code": "785-6",
+    "description": "MCH [Entitic mass] by Automated count"
+  },
+  {
+    "code": "786-4",
+    "description": "MCHC [Mass/volume] by Automated count"
+  },
+  {
+    "code": "777-3",
+    "description": "Platelets [#/volume] in Blood by Automated count"
+  },
+  {
+    "code": "789-8",
+    "description": "RBC [#/volume] in Blood by Automated count"
+  },
+  {
+    "code": "4679-7",
+    "description": "Reticulocytes [#/volume] in Blood"
+  },
+  {
+    "code": "30313-1",
+    "description": "Hemoglobin [Mass/volume] in Arterial blood"
+  },
+  {
+    "code": "2160-0",
+    "description": "Creatinine [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "3094-0",
+    "description": "Urea nitrogen [Mass/volume] in Serum or Plasma (BUN)"
+  },
+  {
+    "code": "3097-3",
+    "description": "Urea nitrogen [Mass/volume] in Urine"
+  },
+  {
+    "code": "33914-3",
+    "description": "Estimated glomerular filtration rate (eGFR)"
+  },
+  {
+    "code": "2345-7",
+    "description": "Glucose [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2339-0",
+    "description": "Glucose [Mass/volume] in Blood"
+  },
+  {
+    "code": "1558-6",
+    "description": "Fasting glucose [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "4548-4",
+    "description": "Hemoglobin A1c/Hemoglobin.total in Blood"
+  },
+  {
+    "code": "2093-3",
+    "description": "Cholesterol [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2571-8",
+    "description": "Triglyceride [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2085-9",
+    "description": "HDL Cholesterol [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "13457-7",
+    "description": "LDL Cholesterol [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "9830-1",
+    "description": "Cholesterol.total/Cholesterol HDL ratio"
+  },
+  {
+    "code": "1742-6",
+    "description": "Alanine aminotransferase [Enzymatic activity/volume] (ALT/SGPT)"
+  },
+  {
+    "code": "1920-8",
+    "description": "Aspartate aminotransferase [Enzymatic activity/volume] (AST/SGOT)"
+  },
+  {
+    "code": "1975-2",
+    "description": "Bilirubin.total [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "1968-7",
+    "description": "Bilirubin.direct [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "6768-6",
+    "description": "Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2324-2",
+    "description": "Gamma glutamyl transferase (GGT) [Enzymatic activity/volume]"
+  },
+  {
+    "code": "1751-7",
+    "description": "Albumin [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2951-2",
+    "description": "Sodium [Moles/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2823-3",
+    "description": "Potassium [Moles/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2075-0",
+    "description": "Chloride [Moles/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2028-9",
+    "description": "Carbon dioxide, total [Moles/volume] in Serum or Plasma"
+  },
+  {
+    "code": "17861-6",
+    "description": "Calcium [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2777-1",
+    "description": "Phosphate [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "19123-9",
+    "description": "Magnesium [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "3024-7",
+    "description": "Thyroid stimulating hormone (TSH) [Units/volume] in Serum or Plasma"
+  },
+  {
+    "code": "3026-2",
+    "description": "Thyroxine (T4) free [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "3016-3",
+    "description": "Triiodothyronine (T3) [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "3051-0",
+    "description": "Triiodothyronine (T3) free [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2532-0",
+    "description": "Lactate dehydrogenase (LDH) [Enzymatic activity/volume]"
+  },
+  {
+    "code": "2276-4",
+    "description": "Ferritin [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2498-4",
+    "description": "Iron [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2500-7",
+    "description": "Total iron binding capacity (TIBC) [Mass/volume]"
+  },
+  {
+    "code": "33959-8",
+    "description": "Procalcitonin [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "1988-5",
+    "description": "C reactive protein [Mass/volume] in Serum or Plasma (CRP)"
+  },
+  {
+    "code": "30522-7",
+    "description": "High sensitivity C-reactive protein (hs-CRP)"
+  },
+  {
+    "code": "30341-2",
+    "description": "Erythrocyte sedimentation rate (ESR)"
+  },
+  {
+    "code": "5902-2",
+    "description": "Prothrombin time (PT)"
+  },
+  {
+    "code": "6301-6",
+    "description": "International normalized ratio (INR)"
+  },
+  {
+    "code": "3173-2",
+    "description": "Activated partial thromboplastin time (aPTT)"
+  },
+  {
+    "code": "3255-7",
+    "description": "Fibrinogen [Mass/volume] in Platelet poor plasma"
+  },
+  {
+    "code": "48065-7",
+    "description": "D-dimer [Mass/volume] in Platelet poor plasma"
+  },
+  {
+    "code": "6598-7",
+    "description": "Troponin T [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "10839-9",
+    "description": "Troponin I [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "33762-6",
+    "description": "NT-proBNP [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "30934-4",
+    "description": "BNP [Mass/volume] in Blood"
+  },
+  {
+    "code": "2157-6",
+    "description": "Creatine kinase [Enzymatic activity/volume] in Serum or Plasma"
+  },
+  {
+    "code": "13969-1",
+    "description": "Creatine kinase MB [Enzymatic activity/volume]"
+  },
+  {
+    "code": "2965-2",
+    "description": "Specific gravity of Urine"
+  },
+  {
+    "code": "5803-2",
+    "description": "pH of Urine"
+  },
+  {
+    "code": "20505-4",
+    "description": "Bilirubin.total [Presence] in Urine"
+  },
+  {
+    "code": "5811-5",
+    "description": "Specific gravity of Urine by Test strip"
+  },
+  {
+    "code": "2889-4",
+    "description": "Protein [Presence] in Urine by Test strip"
+  },
+  {
+    "code": "25428-4",
+    "description": "Glucose [Presence] in Urine by Test strip"
+  },
+  {
+    "code": "5767-9",
+    "description": "Appearance of Urine"
+  },
+  {
+    "code": "24356-8",
+    "description": "Urinalysis complete panel in Urine"
+  },
+  {
+    "code": "600-7",
+    "description": "Bacteria identified in Blood by Culture"
+  },
+  {
+    "code": "630-4",
+    "description": "Bacteria identified in Urine by Culture"
+  },
+  {
+    "code": "5671-3",
+    "description": "Lead [Mass/volume] in Blood"
+  },
+  {
+    "code": "2458-8",
+    "description": "IgA [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2464-6",
+    "description": "IgG [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2472-9",
+    "description": "IgM [Mass/volume] in Serum or Plasma"
+  },
+  {
+    "code": "2947-0",
+    "description": "Sodium [Moles/volume] in Blood"
+  },
+  {
+    "code": "19146-0",
+    "description": "Reference lab test result for Hepatitis B surface antigen (HBsAg)"
+  },
+  {
+    "code": "16128-1",
+    "description": "Hepatitis C antibody"
+  },
+  {
+    "code": "5196-1",
+    "description": "HIV 1 antibody"
+  },
+  {
+    "code": "1798-8",
+    "description": "Amylase [Enzymatic activity/volume] in Serum or Plasma"
+  },
+  {
+    "code": "14804-9",
+    "description": "Lactate [Moles/volume] in Blood"
+  },
+  {
+    "code": "2019-8",
+    "description": "Carbon dioxide [Partial pressure] in Arterial blood (pCO2)"
+  },
+  {
+    "code": "2703-7",
+    "description": "Oxygen [Partial pressure] in Arterial blood (pO2)"
+  },
+  {
+    "code": "2744-1",
+    "description": "pH of Arterial blood"
+  },
+  {
+    "code": "1960-4",
+    "description": "Bicarbonate [Moles/volume] in Arterial blood"
+  }
+]

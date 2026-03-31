@@ -1,0 +1,658 @@
+[
+  {
+    "code": "E11.9",
+    "description": "Type 2 diabetes mellitus without complications"
+  },
+  {
+    "code": "E11.65",
+    "description": "Type 2 diabetes mellitus with hyperglycemia"
+  },
+  {
+    "code": "E11.10",
+    "description": "Type 2 diabetes mellitus with diabetic ketoacidosis"
+  },
+  {
+    "code": "E11.21",
+    "description": "Type 2 diabetes mellitus with diabetic nephropathy"
+  },
+  {
+    "code": "E11.22",
+    "description": "Type 2 diabetes mellitus with diabetic chronic kidney disease"
+  },
+  {
+    "code": "E11.40",
+    "description": "Type 2 diabetes mellitus with diabetic neuropathy"
+  },
+  {
+    "code": "E11.51",
+    "description": "Type 2 diabetes mellitus with diabetic peripheral angiopathy"
+  },
+  {
+    "code": "E11.621",
+    "description": "Type 2 diabetes mellitus with foot ulcer"
+  },
+  {
+    "code": "E10.9",
+    "description": "Type 1 diabetes mellitus without complications"
+  },
+  {
+    "code": "E10.10",
+    "description": "Type 1 diabetes mellitus with ketoacidosis"
+  },
+  {
+    "code": "E13.9",
+    "description": "Other specified diabetes mellitus without complications"
+  },
+  {
+    "code": "I10",
+    "description": "Essential (primary) hypertension"
+  },
+  {
+    "code": "I11.0",
+    "description": "Hypertensive heart disease with heart failure"
+  },
+  {
+    "code": "I11.9",
+    "description": "Hypertensive heart disease without heart failure"
+  },
+  {
+    "code": "I12.9",
+    "description": "Hypertensive chronic kidney disease"
+  },
+  {
+    "code": "I13.0",
+    "description": "Hypertensive heart and chronic kidney disease with heart failure"
+  },
+  {
+    "code": "I21.0",
+    "description": "Acute ST elevation myocardial infarction of anterior wall"
+  },
+  {
+    "code": "I21.1",
+    "description": "Acute ST elevation myocardial infarction of inferior wall"
+  },
+  {
+    "code": "I21.3",
+    "description": "Acute ST elevation myocardial infarction of unspecified site"
+  },
+  {
+    "code": "I21.4",
+    "description": "Acute non-ST elevation (NSTEMI) myocardial infarction"
+  },
+  {
+    "code": "I21.9",
+    "description": "Acute myocardial infarction, unspecified"
+  },
+  {
+    "code": "I25.10",
+    "description": "Atherosclerotic heart disease of native coronary artery"
+  },
+  {
+    "code": "I25.110",
+    "description": "Atherosclerotic heart disease with unstable angina pectoris"
+  },
+  {
+    "code": "I20.0",
+    "description": "Unstable angina"
+  },
+  {
+    "code": "I20.9",
+    "description": "Angina pectoris, unspecified"
+  },
+  {
+    "code": "I50.1",
+    "description": "Left ventricular failure, unspecified"
+  },
+  {
+    "code": "I50.20",
+    "description": "Unspecified systolic (congestive) heart failure"
+  },
+  {
+    "code": "I50.9",
+    "description": "Heart failure, unspecified"
+  },
+  {
+    "code": "I48.0",
+    "description": "Paroxysmal atrial fibrillation"
+  },
+  {
+    "code": "I48.91",
+    "description": "Unspecified atrial fibrillation"
+  },
+  {
+    "code": "I42.0",
+    "description": "Dilated cardiomyopathy"
+  },
+  {
+    "code": "I63.9",
+    "description": "Cerebral infarction, unspecified (Stroke)"
+  },
+  {
+    "code": "I63.50",
+    "description": "Cerebral infarction due to unspecified occlusion of cerebral artery"
+  },
+  {
+    "code": "I61.9",
+    "description": "Nontraumatic intracerebral hemorrhage, unspecified"
+  },
+  {
+    "code": "I64",
+    "description": "Stroke, not specified as hemorrhage or infarction"
+  },
+  {
+    "code": "I26.99",
+    "description": "Pulmonary embolism without acute cor pulmonale"
+  },
+  {
+    "code": "I26.09",
+    "description": "Pulmonary embolism with acute cor pulmonale"
+  },
+  {
+    "code": "I82.409",
+    "description": "Deep vein thrombosis of unspecified deep vessels of lower extremity"
+  },
+  {
+    "code": "I82.90",
+    "description": "Acute embolism and thrombosis of unspecified vein"
+  },
+  {
+    "code": "I71.3",
+    "description": "Abdominal aortic aneurysm, ruptured"
+  },
+  {
+    "code": "I71.01",
+    "description": "Dissection of thoracic aorta"
+  },
+  {
+    "code": "I73.9",
+    "description": "Peripheral vascular disease, unspecified"
+  },
+  {
+    "code": "J18.9",
+    "description": "Pneumonia, unspecified organism"
+  },
+  {
+    "code": "J18.1",
+    "description": "Lobar pneumonia, unspecified organism"
+  },
+  {
+    "code": "J15.9",
+    "description": "Unspecified bacterial pneumonia"
+  },
+  {
+    "code": "J13",
+    "description": "Pneumonia due to Streptococcus pneumoniae"
+  },
+  {
+    "code": "J44.0",
+    "description": "Chronic obstructive pulmonary disease with acute lower respiratory infection"
+  },
+  {
+    "code": "J44.1",
+    "description": "Chronic obstructive pulmonary disease with acute exacerbation"
+  },
+  {
+    "code": "J45.20",
+    "description": "Mild intermittent asthma, uncomplicated"
+  },
+  {
+    "code": "J45.40",
+    "description": "Moderate persistent asthma, uncomplicated"
+  },
+  {
+    "code": "J45.909",
+    "description": "Unspecified asthma, uncomplicated"
+  },
+  {
+    "code": "J45.901",
+    "description": "Unspecified asthma with (acute) exacerbation"
+  },
+  {
+    "code": "J96.00",
+    "description": "Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+  },
+  {
+    "code": "J96.01",
+    "description": "Acute respiratory failure with hypoxia"
+  },
+  {
+    "code": "J80",
+    "description": "Acute respiratory distress syndrome (ARDS)"
+  },
+  {
+    "code": "J93.9",
+    "description": "Pneumothorax, unspecified"
+  },
+  {
+    "code": "J06.9",
+    "description": "Acute upper respiratory infection, unspecified"
+  },
+  {
+    "code": "J20.9",
+    "description": "Acute bronchitis, unspecified"
+  },
+  {
+    "code": "K35.80",
+    "description": "Unspecified acute appendicitis"
+  },
+  {
+    "code": "K35.3",
+    "description": "Acute appendicitis with localized peritonitis"
+  },
+  {
+    "code": "K80.00",
+    "description": "Calculus of gallbladder with acute cholecystitis without obstruction"
+  },
+  {
+    "code": "K80.20",
+    "description": "Calculus of gallbladder without cholecystitis"
+  },
+  {
+    "code": "K85.9",
+    "description": "Acute pancreatitis, unspecified"
+  },
+  {
+    "code": "K85.1",
+    "description": "Biliary acute pancreatitis"
+  },
+  {
+    "code": "K25.0",
+    "description": "Acute gastric ulcer with hemorrhage"
+  },
+  {
+    "code": "K25.9",
+    "description": "Gastric ulcer, unspecified, without hemorrhage or perforation"
+  },
+  {
+    "code": "K26.9",
+    "description": "Duodenal ulcer, unspecified, without hemorrhage or perforation"
+  },
+  {
+    "code": "K92.0",
+    "description": "Hematemesis"
+  },
+  {
+    "code": "K92.1",
+    "description": "Melena"
+  },
+  {
+    "code": "K92.2",
+    "description": "Gastrointestinal hemorrhage, unspecified"
+  },
+  {
+    "code": "K21.0",
+    "description": "Gastro-esophageal reflux disease with esophagitis"
+  },
+  {
+    "code": "K59.00",
+    "description": "Constipation, unspecified"
+  },
+  {
+    "code": "K56.60",
+    "description": "Unspecified intestinal obstruction"
+  },
+  {
+    "code": "K50.90",
+    "description": "Crohn disease, unspecified, without complications"
+  },
+  {
+    "code": "K51.90",
+    "description": "Ulcerative colitis, unspecified, without complications"
+  },
+  {
+    "code": "K74.60",
+    "description": "Unspecified cirrhosis of liver"
+  },
+  {
+    "code": "K70.30",
+    "description": "Alcoholic cirrhosis of liver without ascites"
+  },
+  {
+    "code": "N17.9",
+    "description": "Acute kidney failure, unspecified"
+  },
+  {
+    "code": "N17.0",
+    "description": "Acute kidney failure with tubular necrosis"
+  },
+  {
+    "code": "N18.1",
+    "description": "Chronic kidney disease, stage 1"
+  },
+  {
+    "code": "N18.2",
+    "description": "Chronic kidney disease, stage 2 (mild)"
+  },
+  {
+    "code": "N18.3",
+    "description": "Chronic kidney disease, stage 3 (moderate)"
+  },
+  {
+    "code": "N18.4",
+    "description": "Chronic kidney disease, stage 4 (severe)"
+  },
+  {
+    "code": "N18.5",
+    "description": "Chronic kidney disease, stage 5"
+  },
+  {
+    "code": "N18.6",
+    "description": "End stage renal disease"
+  },
+  {
+    "code": "N18.9",
+    "description": "Chronic kidney disease, unspecified"
+  },
+  {
+    "code": "N39.0",
+    "description": "Urinary tract infection, site not specified"
+  },
+  {
+    "code": "N10",
+    "description": "Acute tubulo-interstitial nephritis (Pyelonephritis)"
+  },
+  {
+    "code": "N40.0",
+    "description": "Benign prostatic hyperplasia without lower urinary tract symptoms"
+  },
+  {
+    "code": "A41.9",
+    "description": "Sepsis, unspecified organism"
+  },
+  {
+    "code": "A41.01",
+    "description": "Sepsis due to Methicillin susceptible Staphylococcus aureus"
+  },
+  {
+    "code": "A41.52",
+    "description": "Sepsis due to Pseudomonas"
+  },
+  {
+    "code": "R65.20",
+    "description": "Severe sepsis without septic shock"
+  },
+  {
+    "code": "R65.21",
+    "description": "Severe sepsis with septic shock"
+  },
+  {
+    "code": "B34.9",
+    "description": "Viral infection, unspecified"
+  },
+  {
+    "code": "A09",
+    "description": "Infectious gastroenteritis and colitis, unspecified"
+  },
+  {
+    "code": "A15.0",
+    "description": "Tuberculosis of lung"
+  },
+  {
+    "code": "B20",
+    "description": "Human immunodeficiency virus (HIV) disease"
+  },
+  {
+    "code": "B50.9",
+    "description": "Plasmodium falciparum malaria, unspecified"
+  },
+  {
+    "code": "A01.0",
+    "description": "Typhoid fever"
+  },
+  {
+    "code": "A90",
+    "description": "Dengue fever"
+  },
+  {
+    "code": "A91",
+    "description": "Dengue hemorrhagic fever"
+  },
+  {
+    "code": "R50.9",
+    "description": "Fever, unspecified"
+  },
+  {
+    "code": "R06.02",
+    "description": "Shortness of breath"
+  },
+  {
+    "code": "R07.9",
+    "description": "Chest pain, unspecified"
+  },
+  {
+    "code": "R10.9",
+    "description": "Unspecified abdominal pain"
+  },
+  {
+    "code": "R11.2",
+    "description": "Nausea with vomiting, unspecified"
+  },
+  {
+    "code": "R42",
+    "description": "Dizziness and giddiness"
+  },
+  {
+    "code": "R55",
+    "description": "Syncope and collapse"
+  },
+  {
+    "code": "R40.20",
+    "description": "Unspecified coma"
+  },
+  {
+    "code": "M54.5",
+    "description": "Low back pain"
+  },
+  {
+    "code": "M79.3",
+    "description": "Panniculitis, unspecified"
+  },
+  {
+    "code": "M17.9",
+    "description": "Osteoarthritis of knee, unspecified"
+  },
+  {
+    "code": "M16.9",
+    "description": "Osteoarthritis of hip, unspecified"
+  },
+  {
+    "code": "M06.9",
+    "description": "Rheumatoid arthritis, unspecified"
+  },
+  {
+    "code": "G43.909",
+    "description": "Migraine, unspecified"
+  },
+  {
+    "code": "G40.909",
+    "description": "Epilepsy, unspecified"
+  },
+  {
+    "code": "G41.9",
+    "description": "Status epilepticus, unspecified"
+  },
+  {
+    "code": "G03.9",
+    "description": "Meningitis, unspecified"
+  },
+  {
+    "code": "G04.90",
+    "description": "Encephalitis and encephalomyelitis, unspecified"
+  },
+  {
+    "code": "G20",
+    "description": "Parkinson disease"
+  },
+  {
+    "code": "G30.9",
+    "description": "Alzheimer disease, unspecified"
+  },
+  {
+    "code": "G35",
+    "description": "Multiple sclerosis"
+  },
+  {
+    "code": "E78.5",
+    "description": "Hyperlipidemia, unspecified"
+  },
+  {
+    "code": "E78.0",
+    "description": "Pure hypercholesterolemia"
+  },
+  {
+    "code": "E03.9",
+    "description": "Hypothyroidism, unspecified"
+  },
+  {
+    "code": "E05.90",
+    "description": "Thyrotoxicosis, unspecified without thyrotoxic crisis"
+  },
+  {
+    "code": "E66.9",
+    "description": "Obesity, unspecified"
+  },
+  {
+    "code": "E86.0",
+    "description": "Dehydration"
+  },
+  {
+    "code": "E87.1",
+    "description": "Hypo-osmolality and hyponatremia"
+  },
+  {
+    "code": "E87.6",
+    "description": "Hypokalemia"
+  },
+  {
+    "code": "E87.0",
+    "description": "Hyperosmolality and hypernatremia"
+  },
+  {
+    "code": "D64.9",
+    "description": "Anemia, unspecified"
+  },
+  {
+    "code": "D50.9",
+    "description": "Iron deficiency anemia, unspecified"
+  },
+  {
+    "code": "D69.6",
+    "description": "Thrombocytopenia, unspecified"
+  },
+  {
+    "code": "D65",
+    "description": "Disseminated intravascular coagulation"
+  },
+  {
+    "code": "F32.9",
+    "description": "Major depressive disorder, single episode, unspecified"
+  },
+  {
+    "code": "F41.9",
+    "description": "Anxiety disorder, unspecified"
+  },
+  {
+    "code": "F10.20",
+    "description": "Alcohol dependence, uncomplicated"
+  },
+  {
+    "code": "L03.90",
+    "description": "Cellulitis, unspecified"
+  },
+  {
+    "code": "L02.91",
+    "description": "Cutaneous abscess, unspecified"
+  },
+  {
+    "code": "S72.009A",
+    "description": "Fracture of unspecified part of neck of femur"
+  },
+  {
+    "code": "S72.90XA",
+    "description": "Unspecified fracture of unspecified femur"
+  },
+  {
+    "code": "S52.509A",
+    "description": "Unspecified fracture of the lower end of radius"
+  },
+  {
+    "code": "S82.009A",
+    "description": "Unspecified fracture of unspecified patella"
+  },
+  {
+    "code": "S06.9X0A",
+    "description": "Unspecified intracranial injury without loss of consciousness"
+  },
+  {
+    "code": "S42.009A",
+    "description": "Fracture of unspecified part of clavicle"
+  },
+  {
+    "code": "T78.2XXA",
+    "description": "Anaphylactic shock, unspecified, initial encounter"
+  },
+  {
+    "code": "T78.40XA",
+    "description": "Allergy, unspecified, initial encounter"
+  },
+  {
+    "code": "T50.905A",
+    "description": "Adverse effect of unspecified drugs"
+  },
+  {
+    "code": "C34.90",
+    "description": "Malignant neoplasm of unspecified part of bronchus or lung"
+  },
+  {
+    "code": "C50.919",
+    "description": "Malignant neoplasm of unspecified site of breast"
+  },
+  {
+    "code": "C18.9",
+    "description": "Malignant neoplasm of colon, unspecified"
+  },
+  {
+    "code": "C61",
+    "description": "Malignant neoplasm of prostate"
+  },
+  {
+    "code": "C16.9",
+    "description": "Malignant neoplasm of stomach, unspecified"
+  },
+  {
+    "code": "C22.0",
+    "description": "Liver cell carcinoma"
+  },
+  {
+    "code": "C25.9",
+    "description": "Malignant neoplasm of pancreas, unspecified"
+  },
+  {
+    "code": "C56.9",
+    "description": "Malignant neoplasm of unspecified ovary"
+  },
+  {
+    "code": "O80",
+    "description": "Encounter for full-term uncomplicated delivery"
+  },
+  {
+    "code": "O82",
+    "description": "Encounter for cesarean delivery without indication"
+  },
+  {
+    "code": "O24.419",
+    "description": "Gestational diabetes mellitus in pregnancy, unspecified control"
+  },
+  {
+    "code": "O14.10",
+    "description": "Severe preeclampsia, unspecified trimester"
+  },
+  {
+    "code": "O72.1",
+    "description": "Other immediate postpartum hemorrhage"
+  },
+  {
+    "code": "P07.30",
+    "description": "Preterm newborn, unspecified weeks of gestation"
+  }
+]

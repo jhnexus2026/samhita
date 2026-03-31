@@ -1,0 +1,250 @@
+============================================================
+     SHRI GANGA RAM HOSPITAL, DELHI
+     DISCHARGE SUMMARY — OBSTETRICS & GYNAECOLOGY
+============================================================
+
+Patient Name    : Priya Sharma
+Age / Gender    : 29 years / Female
+UHID            : GRH-2026-15782
+ABHA ID         : 14-5521-8834-2290
+Admission Date  : 18-03-2026
+Discharge Date  : 23-03-2026
+Ward / Bed      : Labour Room → Post-natal Ward 2A / Bed 8
+Treating Doctor : Dr. Meenakshi Gupta (Consultant, OB-GYN)
+
+------------------------------------------------------------
+CHIEF COMPLAINTS
+------------------------------------------------------------
+- G2P1L1 at 38+4 weeks of gestation
+- Referred from periphery for failed induction
+- Leaking PV since 12 hours (PROM — Premature Rupture of Membranes)
+- Previous LSCS — 3 years back for fetal distress
+- Wanting safe delivery — bahut tension hai, pehle bhi operation hua tha
+
+------------------------------------------------------------
+ANTENATAL HISTORY
+------------------------------------------------------------
+- Booked and immunized pregnancy
+- Regular ANC visits (8 visits)
+- First trimester: Uneventful, NT scan normal
+- Anomaly scan (20 weeks): Normal fetal anatomy, placenta posterior
+- GDM screening (24 weeks): OGTT — Fasting 98 mg/dL, 2hr 162 mg/dL
+  → Diagnosed: Gestational Diabetes Mellitus (GDM) on MNT
+  → Diet control adequate, no insulin required
+- 32 weeks: Mild anaemia (Hb 9.8 g/dL) — started Iron Sucrose IV x3 doses
+- 36 weeks: Hb improved to 11.2 g/dL, GDM well controlled
+- No h/o PIH, no pre-eclampsia, no thyroid disorder
+- Previous obstetric history:
+  - G1: LSCS at 39 weeks (2023) — male child, 3.2 kg, fetal distress
+  - Baby alive and healthy
+- Denies history of TB or HIV
+- No bleeding PV, no reduced fetal movements
+
+------------------------------------------------------------
+EXAMINATION ON ADMISSION
+------------------------------------------------------------
+Vitals:
+  Blood Pressure  : 126/82 mmHg
+  Pulse Rate      : 88/min
+  SpO2            : 98% on room air
+  Temperature     : 99.1°F (mild fever — ?early chorioamnionitis)
+  Respiratory Rate: 18/min
+
+Obstetric Examination:
+  Uterine height: 36 weeks size
+  Lie: Longitudinal, Cephalic presentation
+  FHS: 148/min, regular
+  Contractions: Irregular, mild
+  P/V: Cervix 2cm dilated, 50% effaced, vertex at -2 station
+  Liquor: Clear, draining
+
+General: Mild pallor, no pedal edema, no icterus
+Breast: NAD
+CVS: S1S2 normal, no murmur
+RS: Clear, bilateral AE equal
+
+------------------------------------------------------------
+INVESTIGATIONS
+------------------------------------------------------------
+Blood Work (18-03-2026):
+  Hemoglobin       : 11.0 g/dL        (Ref: 11-15)
+  TLC              : 13,400/cumm      (Ref: 4000-11000) — raised
+  Platelet Count   : 2.4 lakh/cumm    (Ref: 1.5-4.0 lakh)
+  Blood Group      : B Positive
+  RBS              : 118 mg/dL        (Ref: 70-140)
+  HbA1c            : 5.8%             (Ref: <5.7%) — borderline
+  Serum Creatinine : 0.7 mg/dL        (Ref: 0.5-1.1)
+  Urine R/M        : No proteinuria, no sugar
+  HIV / HBsAg / VDRL: Non-reactive
+  TSH              : 3.2 mIU/L        (Ref: 0.5-4.5)
+  CRP              : 18 mg/L          (Ref: <5)     ** RAISED **
+
+NST (Non-Stress Test): Reactive, Category I tracing
+USG (18-03-2026):
+  - Single live intrauterine fetus, cephalic
+  - AFI: 6 cm (lower normal — oligohydramnios mild)
+  - EFW: 3.1 kg
+  - Placenta posterior, Grade III maturity
+  - Scar thickness: 3.2 mm (adequate)
+  - No cord around neck
+
+------------------------------------------------------------
+DIAGNOSIS
+------------------------------------------------------------
+1. G2P1L1 at 38+4 weeks — Previous LSCS
+2. Premature Rupture of Membranes (PROM) — 12 hours
+3. Failed Induction of Labour
+4. Gestational Diabetes Mellitus (diet controlled)
+5. Mild Oligohydramnios (AFI 6 cm)
+6. Suspected Early Chorioamnionitis (raised TLC, CRP, low-grade fever)
+7. Iron Deficiency Anaemia — corrected
+
+------------------------------------------------------------
+PROCEDURE PERFORMED
+------------------------------------------------------------
+EMERGENCY LOWER SEGMENT CAESAREAN SECTION (LSCS)
+Date: 19-03-2026, 02:30 AM (Emergency)
+Surgeon: Dr. Meenakshi Gupta
+Anaesthesia: Spinal (Dr. Anjali Verma)
+
+Indication:
+  - Previous LSCS with PROM >12 hours
+  - Failed induction, unfavourable cervix (Bishop score 4)
+  - Suspected chorioamnionitis
+  - Repeat LSCS — patient counselled, VBAC not attempted (high risk)
+
+Intra-operative Findings:
+  - Abdomen opened by Pfannenstiel incision
+  - Previous scar — intact, no thinning
+  - Lower segment incision — baby delivered as cephalic
+  - Liquor: Slightly turbid (meconium Grade I)
+  - Baby cried immediately after birth
+  - Placenta delivered by CCT — complete, weight 520 gm
+  - Uterus sutured in 2 layers
+  - Bilateral tubal ligation NOT done (patient declined)
+  - EBL: 600 mL (within normal limits)
+  - No bladder injury, no extension of incision
+
+BABY DETAILS:
+  Sex            : Female
+  Birth Weight   : 3.05 kg
+  APGAR Score    : 8/10 at 1 min, 9/10 at 5 min
+  Cry            : Immediate
+  Any anomaly    : None
+  Breastfeeding  : Initiated within 1 hour
+  Vitamin K      : Given IM
+  Cord blood     : Sent for blood group — O Positive
+  Nursery admission: Not required
+
+------------------------------------------------------------
+POST-OPERATIVE COURSE
+------------------------------------------------------------
+POD-0 (19-03):
+  - Spinal effect wore off in 4 hours
+  - Vitals stable, urine output adequate
+  - IV antibiotics: Ceftriaxone 1gm BD + Metronidazole 500mg TDS started
+  - IV fluids, NPO maintained
+
+POD-1 (20-03):
+  - Oral liquids started, flatus passed
+  - Ambulation initiated
+  - Catheter removed, voided well
+  - Fever resolved — Tmax 98.8°F
+  - TLC repeat: 9,800/cumm (normalizing)
+  - CRP repeat: 8 mg/L (decreasing)
+  - Breastfeeding established — adequate output
+
+POD-2 (21-03):
+  - Soft diet tolerated
+  - Wound inspection: Clean, dry, no discharge
+  - IV antibiotics continued
+  - RBS: 102 mg/dL (normal)
+  - Baby: weight 2.95 kg (physiological weight loss 3.3% — normal)
+
+POD-3 (22-03):
+  - Full diet, ambulating well
+  - Switched to oral antibiotics
+  - Suture line healthy
+  - Baby: breastfeeding well, passed meconium, no jaundice
+
+POD-4 (23-03) — DISCHARGE:
+  - Afebrile, vitals normal
+  - Wound: Healthy, staples in situ (removal at day 7-8)
+  - Uterus well contracted, lochia normal
+  - Baby: 2.98 kg, feeding well, no concerns
+
+------------------------------------------------------------
+MEDICATIONS AT DISCHARGE
+------------------------------------------------------------
+1. Tab Cefixime 200mg BD — 5 days (oral antibiotic)
+2. Tab Metronidazole 400mg TDS — 5 days
+3. Tab Ibuprofen 400mg TDS (SOS) — for pain
+4. Tab Paracetamol 650mg TDS — 3 days
+5. Tab Ranitidine 150mg BD — 5 days
+6. Tab Iron + Folic Acid OD — 3 months
+7. Cap Calcium 500mg + Vitamin D3 OD — 3 months
+8. Lactulose syrup 15mL HS — for 1 week (prevent constipation)
+
+Baby Medications:
+1. Vitamin D3 drops 400 IU OD — continue
+2. Breastfeeding on demand — exclusive for 6 months
+
+------------------------------------------------------------
+BILLING SUMMARY
+------------------------------------------------------------
+S.No  Description                          Amount (INR)
+------------------------------------------------------------
+1.    Labour Room charges                      8,000
+2.    OT charges (Emergency LSCS)             45,000
+3.    Surgeon fee                             35,000
+4.    Anaesthesia charges                     12,000
+5.    Spinal anaesthesia kit                   3,500
+6.    Post-natal ward (4 days)                24,000
+7.    Baby nursery charges                     8,000
+8.    Laboratory investigations               12,500
+9.    USG Obstetric                            2,500
+10.   NST monitoring (2 sessions)              1,500
+11.   IV Antibiotics + Fluids                  8,200
+12.   Medications (in-hospital)                4,800
+13.   Nursing charges                          6,000
+14.   Neonatologist consultation               2,500
+15.   Dietician consultation                   1,000
+16.   Blood grouping and cross-match           1,200
+17.   CT Scan abdomen                         12,000
+------------------------------------------------------------
+      TOTAL                                1,87,700
+------------------------------------------------------------
+      TPA Pre-Approved Amount              1,50,000
+      Patient Co-Pay                         37,700
+------------------------------------------------------------
+
+TPA Details:
+  Insurance Company : ICICI Lombard General Insurance
+  Policy No.        : IL/DEL/2025/554329
+  TPA               : Paramount Health Services
+  Pre-Auth No.      : PHS-2026-PRE-11247
+  Approved Package  : LSCS — Repeat (with complications)
+
+Note: CT Scan abdomen charged but was NOT performed on this patient
+      (billing department to verify — may be erroneous entry)
+
+------------------------------------------------------------
+FOLLOW-UP ADVICE
+------------------------------------------------------------
+- OB-GYN OPD review after 7 days — suture/staple removal
+- Baby: Paediatrician visit at 2 weeks, then monthly
+- Contraception: Discussed — patient opting for Cu-IUCD at 6 weeks
+- RBS check at 6 weeks post-partum (GDM follow-up)
+  → If normal: OGTT at 3 months
+  → Counsel regarding 50% lifetime risk of Type 2 DM
+- Continue iron supplements for 3 months minimum
+- Exclusive breastfeeding for 6 months
+- Wound care: Keep dry, staple removal Day 7-8, report any redness/pus
+- Emergency signs: Heavy bleeding PV, fever >101°F, foul-smelling discharge
+- Baby danger signs: Not feeding, fever, jaundice, lethargy
+
+------------------------------------------------------------
+Prepared by: Dr. Ritu Agarwal (Senior Resident, OB-GYN)
+Verified by: Dr. Meenakshi Gupta (Consultant, OB-GYN)
+Date: 23-03-2026
+============================================================
