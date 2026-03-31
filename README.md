@@ -197,12 +197,6 @@ SAMHITA automates the most complex part of the workflow:
 
 ---
 
-## 📸 Demo / Screenshots
-
-_Add screenshots here_
-
----
-
 ## 📦 Installation
 
 ```bash
@@ -227,3 +221,39 @@ npm run dev
 - Aryan Pandey
 - Gangotri Gupta
 - Nimish Gupta
+
+## 📸 Demo / Screenshots
+
+<p align="center">
+  <img src="./1.jpeg" width="700"/>
+</p>
+<p align="center">
+  <img src="./2.jpeg" width="700"/>
+</p>
+<p align="center">
+  <img src="./3.jpeg" width="700"/>
+</p>
+<p align="center">
+  <img src="./4.jpeg" width="700"/>
+</p>
+<p align="center">
+  <img src="./5.jpeg" width="700"/>
+</p>
+<p align="center">
+  <img src="./6.jpeg" width="700"/>
+</p>
+<p align="center">
+  <img src="./7.jpeg" width="700"/>
+</p>
+<p align="center">
+  <img src="./8.jpeg" width="700"/>
+</p>
+<p align="center">
+  <img src="./9.jpeg" width="700"/>
+</p>
+<p align="center">
+  <img src="./10.jpeg" width="700"/>
+</p>
+
+
+---
